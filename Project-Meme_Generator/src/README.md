@@ -165,7 +165,7 @@ After entering all these fields and clicking _Create Meme!_ button, you will see
 
 Really cool project. Please Enjoy.
 
-_Onur Dincol_
+_OD_
 
 
 
